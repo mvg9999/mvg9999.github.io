@@ -20,9 +20,9 @@
 
 title: Marcus Vincent Gomez Personal Blog 
 email: marcus@mvgconsult.com 
-twitter_username: real_mvg 
-github_username:  mvg9999
-
+twitter_url: https://x.com/real_mvg 
+github_url: https://github.com/mvg9999
+linkedin_url: https://www.linkedin.com/in/mvgomez1/
 # Build settings
 theme: minima
 plugins:
