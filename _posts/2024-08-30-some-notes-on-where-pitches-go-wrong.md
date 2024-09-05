@@ -1,3 +1,8 @@
+---
+layout: default 
+title: "Some notes on where pitches go wrong"
+date: 2024-09-04
+---
 # DRAFT: SOME NOTES ON WHERE PITCHES GO WRONG
 
 There's this thing that people do when they're pitching that I think is pretty broken. I don't know where it comes from, but it goes something like this:
