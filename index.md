@@ -34,4 +34,4 @@ This is my personal blog, which will mostly serve as a shareable scratchpad.
 ## Things I'll Probably Publish About Soon
 - Some thoughts on fundraising
 - Some thoughts on recruiting
-- Some thoughts on where founders mess up their pitches 
+- [Some thoughts on where founders mess up their pitches]({% post_url 2024-08-30-some-notes-on-where-pitches-go-wrong %}) 
