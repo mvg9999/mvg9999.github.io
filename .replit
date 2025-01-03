@@ -1,6 +1,7 @@
 entrypoint="index.html"
 hidden=[".config"]
 modules = ["bun-1.1", "web:v2-20230623-0b7a606"]
+run = "bundle exec jekyll serve --host 0.0.0.0 --port 4000"
 
 [nix]
 channel = "stable-23_11"
