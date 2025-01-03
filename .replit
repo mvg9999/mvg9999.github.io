@@ -1,11 +1,15 @@
-entrypoint="index.html"
 hidden=[".config"]
-modules = ["bun-1.1", "web:v2-20230623-0b7a606"]
+modules = ["web", "ruby-3.2", "nix"]
 run = "bundle exec jekyll serve --host 0.0.0.0 --port 4000"
 
 [nix]
-channel = "stable-23_11"
+channel = "stable-24_05"
 
 [deployment]
 publicDir = "/"
 deploymentTarget = "static"
+run = ["sh", "-c", "bundle exec jekyll serve --host 0.0.0.0 --port 4000"]
+
+[[ports]]
+localPort = 4000
+externalPort = 80

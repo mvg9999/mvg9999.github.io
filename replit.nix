@@ -1,7 +1,7 @@
 { pkgs }:
 {
   deps = [
-    pkgs.jekyll
+    pkgs.ruby_3_2
     pkgs.bundler
   ];
 }
