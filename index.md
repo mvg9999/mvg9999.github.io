@@ -27,11 +27,11 @@ This is my personal blog, which will mostly serve as a shareable scratchpad.
 - Twitter: [Twitter Profile]({{ site.twitter_url }})
 
 ## Blog Posts
+- [Fundraising 101]({% post_url 2025-01-04-fundraising-101 %})
 - [I am a coach!]({% post_url 2024-08-30-i-am-a-coach-now %})
 - [Hello World]({% post_url 2024-05-14-hello-world %})
 
 
 ## Things I'll Probably Publish About Soon
-- Some thoughts on fundraising
 - Some thoughts on recruiting
 - [Some thoughts on where founders mess up their pitches]({% post_url 2024-08-30-some-notes-on-where-pitches-go-wrong %}) 
