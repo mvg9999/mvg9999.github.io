@@ -6,21 +6,24 @@ html, body {
   line-height: 1.5;
   color: #000;
   background-color: #fff;
+  margin: 0;
+  padding: 0;
 }
 
 body {
   max-width: 800px;
+  width: 90%;
   margin: 0 auto;
   padding: 20px;
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 2rem;
   margin-bottom: 20px;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 1.5rem;
   margin-top: 30px;
   margin-bottom: 15px;
 }
@@ -58,4 +61,38 @@ ul {
 header, main, footer {
   background: none;
   border: none;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+    max-width: 100%;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1rem;
+  }
+
+  p, ul {
+    font-size: 0.9rem;
+  }
+
+  header, footer {
+    margin: 10px 0;
+  }
 }
