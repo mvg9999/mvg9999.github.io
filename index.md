@@ -35,4 +35,4 @@ This is my personal blog, which will mostly serve as a shareable scratchpad.
 - Some thoughts on recruiting
 - [Some thoughts on where founders mess up their pitches]({% post_url 2024-08-30-some-notes-on-where-pitches-go-wrong %})
 - [Fundraising 101]({% post_url 2025-01-03-fundraising-101 %})
-- [Advisor Playbook] ({% post_url 2025-01-03-advisor-playbook %})
+- [Advisor Playbook]({% post_url 2025-01-03-advisor-playbook %})
