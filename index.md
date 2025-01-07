@@ -32,7 +32,10 @@ This is my personal blog, which will mostly serve as a shareable scratchpad.
 
 
 ## Blog Drafts and WIP
-- Some thoughts on recruiting
-- [Some thoughts on where founders mess up their pitches]({% post_url 2024-08-30-some-notes-on-where-pitches-go-wrong %})
-- [Fundraising 101]({% post_url 2025-01-03-fundraising-101 %})
+- [Fundraising 101: Process and Negotiation]({% post_url 2025-01-03-fundraising-101 %})
+- [Fundraising 101: What a good pitch looks like]({% post_url 2025-01-06-what-makes-a-good-pitch %})
+- [Fundraising 101: How VCs make money]({% post_url 2025-01-06-how-VCs-make-money %})
+- [Fundraising 101: How to run a good pitch drill]({% post_url 2025-01-06-how-to-run-a-good-pitch-drill %})
 - [Advisor Playbook]({% post_url 2025-01-03-advisor-playbook %})
+- Some thoughts on recruiting
+
