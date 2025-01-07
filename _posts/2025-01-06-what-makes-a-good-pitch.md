@@ -4,25 +4,6 @@ title: "Fundraising 101: WHAT A GOOD PITCH LOOKS LIKE (+ FUN GAME)"
 date: 2025-01-06
 ---
 
----
-## Some notes on what a good pitch looks like
-
-You're asking investors to bet that you will return the fund. To be a fund returner, you need to be able to hit $100M ARR and provide liquidity within the fund vintage window. So the basic questions your pitch should answer are:
-1. What is the problem your customers have? How do you know and how painful is it?
-2. What is your product, and how do you solve the problem?
-3. How much are the customers willing to pay for the solution?
-4. How hard is it to get a new customer, and how many possible realistic customers are there?
-5. How sticky are the customers?
-6. Where is the risk you are taking on? ("what is the bet?")
-7. Why are you the team to do this?
-
-Point #6 is perhaps the most unintuitive / the thing people talk about the least. VCs aren't looking for a fully de-risked business. They expect most of their bets to fail. What they are looking for is whether or not the risk/reward tradeoff is worth it -- so your job is to show them exactly that. 
-
-You should be able to state most of these things very simply. If you find yourself having to use superfluous language, oftentimes it means your answer isn't crisp enough (maybe because you don't know the answer!).
-
-Index towards showing data and stating facts, rather than trying to persuade through narrative. The best fundraiser I ever met just shows investors his Quickbooks export. 
-
----
 ## Question List
 [TODO: ASK NISHANT IF HE IS OK WITH ME JACKING HIS LIST OF Qs]
 
@@ -93,5 +74,23 @@ Here's a non-comprehensive series of questions you should be able to answer abou
 - What type of exit do you foresee (acquisition, IPO, private standalone, etc.)?
 
 
-[TODO: QUESTION LIST]
-[TODO: INSERT QUESTION LIST AND DRILL GAME]  
+
+---
+## Some notes on what a good pitch looks like [WIP]
+
+You're asking investors to bet that you will return the fund. To be a fund returner, you need to be able to hit $100M ARR and provide liquidity within the fund vintage window. So the basic questions your pitch should answer are:
+1. What is the problem your customers have? How do you know and how painful is it?
+2. What is your product, and how do you solve the problem?
+3. How much are the customers willing to pay for the solution?
+4. How hard is it to get a new customer, and how many possible realistic customers are there?
+5. How sticky are the customers?
+6. Where is the risk you are taking on? ("what is the bet?")
+7. Why are you the team to do this?
+
+Point #6 is perhaps the most unintuitive / the thing people talk about the least. VCs aren't looking for a fully de-risked business. They expect most of their bets to fail. What they are looking for is whether or not the risk/reward tradeoff is worth it -- so your job is to show them exactly that. 
+
+You should be able to state most of these things very simply. If you find yourself having to use superfluous language, oftentimes it means your answer isn't crisp enough (maybe because you don't know the answer!).
+
+Index towards showing data and stating facts, rather than trying to persuade through narrative. The best fundraiser I ever met just shows investors his Quickbooks export. 
+
+---
